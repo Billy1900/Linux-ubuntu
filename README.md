@@ -19,3 +19,7 @@ export PATH=$GOROOT/bin:$PATH:$GOBIN
 5.modify environmental variable
 <pre> sudo gedit .bashrc 
  after modifying, source .bashrc</pre>
+ 
+6. How to install shadowsocks?
+[Tutorial](https://github.com/Billy1900/AWS-Shadowsocks)
+change the `auto switch` mode in switchOmega sometimes when you can not connect with google.
