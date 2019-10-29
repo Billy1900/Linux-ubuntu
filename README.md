@@ -21,11 +21,13 @@ export PATH=$GOROOT/bin:$PATH:$GOBIN
  after modifying, source .bashrc</pre>
  
 6. How to install shadowsocks?
+
 [Tutorial](https://github.com/Billy1900/AWS-Shadowsocks)
 change the `auto switch` mode in switchOmega sometimes when you can not connect with google.
 
 
 7. 硬盘分区
+
 在Linux系统中每一个硬盘总共最多有 16个分区，硬盘上的4个主分区，分别标识为sdal、sda2、sda3和sda4，逻辑分区则从sda5开始标识一直到sda16
 
 Ubuntu Linux可以把分区作为挂载点，载入目录，其中最常用的硬盘大小（500G-1000G）分配目录推荐如下表所示：
