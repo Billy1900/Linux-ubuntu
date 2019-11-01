@@ -42,4 +42,5 @@ Ubuntu Linux可以把分区作为挂载点，载入目录，其中最常用的�
 
 
 8. minimize dock
+
 `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
