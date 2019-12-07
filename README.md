@@ -44,3 +44,25 @@ Ubuntu Linux可以把分区作为挂载点，载入目录，其中最常用的�
 8. minimize dock
 
 `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'`
+
+
+9. Linux目录结构
+
+![image](https://github.com/Billy1900/Linux-ubuntu/blob/master/Untitled%20picture.png)
+<pre>
+Linux 文件系统是一个目录树的结构，文件系统结构从一个根目录开始，根目录下可以有任意多个文件和子目录，子目录中又可以有任意多个文件和子目录
+	bin 存放二进制可执行文件(ls,cat,mkdir等)
+	boot 存放用于系统引导时使用的各种文件
+	dev 用于存放设备文件
+	etc 存放系统配置文件
+	home 存放所有用户文件的根目录
+	lib 存放跟文件系统中的程序运行所需要的共享库及内核模块
+	mnt 系统管理员安装临时文件系统的安装点
+	opt 额外安装的可选应用程序包所放置的位置
+	proc 虚拟文件系统，存放当前内存的映射
+	root 超级用户目录
+	sbin 存放二进制可执行文件，只有root才能访问
+	tmp 用于存放各种临时文件
+	usr 用于存放系统应用程序，比较重要的目录/usr/local 本地管理员软件安装目录
+	var 用于存放运行时需要改变数据的文件
+</pre>
