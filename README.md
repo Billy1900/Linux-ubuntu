@@ -70,3 +70,5 @@ Linux 文件系统是一个目录树的结构，文件系统结构从一个根�
 10. [Ubuntu/Win10双系统安全删除Ubuntu的方法](https://blog.csdn.net/Meditator_hkx/article/details/52626077)
 
 11. [Windows + Ubuntu 16.04 双系统安装详细教程](https://blog.csdn.net/flyyufenfei/article/details/79187656)
+
+12. [Linux连接锐捷校园网客户端](https://blog.csdn.net/qq_15015129/article/details/52651303)
