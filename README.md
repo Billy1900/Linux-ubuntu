@@ -76,3 +76,5 @@ Linux 文件系统是一个目录树的结构，文件系统结构从一个根�
 13. [VMware 虚拟机无法连接网络解决办法](https://blog.csdn.net/m0_37259197/article/details/78221016)
 
 14. [Linux内核版本介绍与查询](https://jasonhzy.github.io/2019/02/05/linux-kernel-version/)
+
+15. [Ubuntu 18.04 安装 NVIDIA 显卡驱动](https://zhuanlan.zhihu.com/p/59618999)
