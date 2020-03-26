@@ -78,3 +78,5 @@ Linux 文件系统是一个目录树的结构，文件系统结构从一个根�
 14. [Linux内核版本介绍与查询](https://jasonhzy.github.io/2019/02/05/linux-kernel-version/)
 
 15. [Ubuntu 18.04 安装 NVIDIA 显卡驱动](https://zhuanlan.zhihu.com/p/59618999)
+
+16. [E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution)](https://unix.stackexchange.com/questions/476059/e-unmet-dependencies-try-apt-fix-broken-install-with-no-packages-or-speci)
