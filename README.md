@@ -80,3 +80,7 @@ Linux 文件系统是一个目录树的结构，文件系统结构从一个根�
 15. [Ubuntu 18.04 安装 NVIDIA 显卡驱动](https://zhuanlan.zhihu.com/p/59618999)
 
 16. [E: Unmet dependencies. Try 'apt --fix-broken install' with no packages (or specify a solution)](https://unix.stackexchange.com/questions/476059/e-unmet-dependencies-try-apt-fix-broken-install-with-no-packages-or-speci)
+
+17. [虚拟机如何让屏幕自适应客户机窗口大小](https://blog.csdn.net/lipeng19930407/article/details/80955322)
+
+sudo apt-get install open-vm-tools
