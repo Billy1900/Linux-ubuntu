@@ -14,7 +14,7 @@ export PATH=$GOROOT/bin:$PATH:$GOBIN
 
 3.install unity tweak tool
 
-4.how to install linux
+4.how to install Linux [link](https://www.jianshu.com/p/123489c8b991)
 
 5.modify environmental variable
 <pre> sudo gedit .bashrc 
