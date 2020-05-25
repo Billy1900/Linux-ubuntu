@@ -127,5 +127,8 @@ vim /usr/local/lib/python2.7/dist-packages/shadowsocks/crypto/openssl.py     `cl
 **18.2 测试网站**
 - [ping 测速](http://ping.chinaz.com)
 - [连接不上](https://blog.csdn.net/daerzei/article/details/81169349)
+
 **18.3 notice**
 大陆用户选择Seoul or Tokyo
+
+[如何选择节点位置？](https://www.cloudping.info)
