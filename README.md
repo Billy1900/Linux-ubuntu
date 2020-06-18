@@ -16,8 +16,8 @@ export PATH=$GOROOT/bin:$PATH:$GOBIN
 ### 4.how to install Linux [link](https://www.jianshu.com/p/123489c8b991)
 
 ### 5.modify environmental variable
-<pre> sudo gedit .bashrc 
- after modifying, source .bashrc</pre>
+<pre> sudo gedit ~/.bashrc 
+ after modifying, source ~/.bashrc</pre>
  
 ### 6. How to install shadowsocks?
 [Tutorial](https://github.com/Billy1900/AWS-Shadowsocks)
